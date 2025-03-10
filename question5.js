@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 // Set up Sequelize to connect to the MySQL database
-const sequelize = new Sequelize('database_name', 'username', 'password', {
+const sequelize = new Sequelize('mydatabase', 'root', '', {
     host: 'localhost',
     dialect: 'mysql'
 });

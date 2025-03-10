@@ -16,8 +16,10 @@
     "url": "https://github.com/Just-tine-44/Paraiso_IPT_2025_Midterm_Activity_Examination_-20370-INTPROG-MW-1630H-/issues"
   },
   "homepage": "https://github.com/Just-tine-44/Paraiso_IPT_2025_Midterm_Activity_Examination_-20370-INTPROG-MW-1630H-#readme",
-  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
-  }
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "description": ""
 }

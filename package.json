@@ -1,0 +1,23 @@
+{
+  "name": "midterm-exam-(activity-20370)",
+  "version": "1.0.0",
+  "main": "question2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-tine-44/Paraiso_IPT_2025_Midterm_Activity_Examination_-20370-INTPROG-MW-1630H-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Just-tine-44/Paraiso_IPT_2025_Midterm_Activity_Examination_-20370-INTPROG-MW-1630H-/issues"
+  },
+  "homepage": "https://github.com/Just-tine-44/Paraiso_IPT_2025_Midterm_Activity_Examination_-20370-INTPROG-MW-1630H-#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
